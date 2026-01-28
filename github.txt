@@ -2,4 +2,5 @@
 2) git status... it will check status of the file (modified, changes)
 3) git add(this will use to add the files)
 4) git commit -m "commit message" .... this will used to commit mean save it with message.
-5) git push ... this use to push the changes
+5) git push ... this is use to push the changes. 
+    OK
